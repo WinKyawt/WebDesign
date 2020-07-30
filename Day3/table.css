@@ -1,0 +1,22 @@
+table {
+    background-color: red;
+    color: white;
+    border-color: blue;
+    border-collapse: collapse;
+    border-style: dotted;
+}
+
+#tableName  {
+	color: red;
+}
+
+.age  {
+	color: black;
+}
+
+p {
+	background-image: url("../images/w1.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-attachment: fixed;
+}
